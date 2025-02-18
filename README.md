@@ -11,7 +11,7 @@
 <!-- Introdução -->
 <div align="center">
   <h1>👋 Hi, I'm <strong>Gustavo Vília</strong>!</h1>
-  <p>Also known as <strong><a href="https://github.com/SnikiPlayer">"Sniki"</a></strong></p>
+  <p>Also known as <strong><a href="https://github.com/GPVilia">"Sniki"</a></strong></p>
 </div>
 
 <br />
