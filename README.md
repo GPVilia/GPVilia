@@ -125,13 +125,13 @@
 <!-- Footer -->
 <div align="center">
   <p>© 2024 <strong>Gustavo Vília</strong>. All rights reserved.</p>
-  <p>Built with 💻 by <strong><a href="https://github.com/SnikiPlayer" target="_blank">Sniki</a></strong></p>
+  <p>Built with 💻 by <strong><a href="https://github.com/GPVilia" target="_blank">Sniki</a></strong></p>
   <p>Follow me on <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank">LinkedIn</a> and <a href="https://www.instagram.com/vilia.exe/" target="_blank">Instagram</a>.</p>
   
   <!-- Social Media Icons (small) -->
   <div style="margin-top: 20px; text-align: center;" style="text-decoration: none;">
   <!-- GitHub Link -->
-  <a href="https://github.com/SnikiPlayer" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/GPVilia" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="GitHub" hspace="8" />
   </a>
   
