@@ -124,6 +124,10 @@
 
 <!-- Footer -->
 <div align="center">
+  <div align="center" style="margin-bottom: 5px">
+    <img src="https://www.codewars.com/users/gpvilia/badges/micro" alt="CodeWars Badge" />
+  </div>
+  
   <p>© 2024 <strong>Gustavo Vília</strong>. All rights reserved.</p>
   <p>Built with 💻 by <strong><a href="https://github.com/GPVilia" target="_blank">Sniki</a></strong></p>
   <p>Follow me on <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank">LinkedIn</a> and <a href="https://www.instagram.com/vilia.exe/" target="_blank">Instagram</a>.</p>
