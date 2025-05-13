@@ -40,6 +40,7 @@
       <li><img src="https://skillicons.dev/icons?i=py" height="17" /> <strong>Python</strong></li>
       <li><img src="https://skillicons.dev/icons?i=php" height="17" /> <strong>PHP</strong></li>
       <li><img src="https://skillicons.dev/icons?i=mysql" height="17" /> <strong>MySQL</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=c" height="17" /> <strong>C</strong></li>
     </ul>
   </details>
   
@@ -55,6 +56,7 @@
     <summary><strong>Technologies</strong></summary>
     <ul>
       <li><img src="https://skillicons.dev/icons?i=nodejs" height="17" /> <strong>Node.js</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=git" height="17" /> <strong>Git</strong></li>
     </ul>
   </details>
   
@@ -76,21 +78,20 @@
     <summary><strong>Languages</strong></summary>
     <ul>
       <li><img src="https://skillicons.dev/icons?i=ts" height="17" /> <strong>TypeScript</strong></li>
-      <li><img src="https://skillicons.dev/icons?i=c" height="17" /> <strong>C</strong></li>
     </ul>
   </details>
   
   <details>
     <summary><strong>Frameworks</strong></summary>
     <ul>
-      <li>💀 None at the moment</li>
+      <li><img src="https://skillicons.dev/icons?i=fastapi" height="17" /> <strong>FastAPI</strong></li>
     </ul>
   </details>
   
   <details>
     <summary><strong>Technologies</strong></summary>
     <ul>
-      <li><img src="https://skillicons.dev/icons?i=git" height="17" /> <strong>Git</strong></li>
+      <li>💀<strong>None at the moment</strong></li>
     </ul>
   </details>
   
