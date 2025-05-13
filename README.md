@@ -3,7 +3,7 @@
 <!-- https://i.pinimg.com/originals/cf/03/d8/cf03d8b554fe01f270c4f7a25261e8c0.gif-->
 <!-- https://i.pinimg.com/originals/b3/d8/d1/b3d8d1501e8bf377b1ddefaca01c1b75.gif-->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cf/03/d8/cf03d8b554fe01f270c4f7a25261e8c0.gif" width="1100" height=""/>
+  <img src="https://github.com/GPVilia/GPVilia/blob/main/assets/Banner.png?raw=true" width="1100" height=""/>
 </div>
 
 <br />
