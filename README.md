@@ -117,7 +117,7 @@
 
 <!-- GIF de rodapé -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/59/87/5b/59875b7804079062af65ef6f353080f1.gif" width="1100" />
+  <img src="https://github.com/GPVilia/GPVilia/blob/main/assets/Thanks-Banner.png?raw=true" width="1100" />
 </div>
 
 <br />
