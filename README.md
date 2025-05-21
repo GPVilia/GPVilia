@@ -146,7 +146,7 @@
   </a>
   
   <!-- Instagram Link -->
-  <a href="https://www.instagram.com/vilia.exe/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/g.vilia_/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" width="25" height="25" alt="Instagram" hspace="8"/>
   </a>
 </div>
