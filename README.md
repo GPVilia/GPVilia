@@ -131,7 +131,7 @@
   
   <p>© 2025 <strong>Gustavo Vília</strong>. All rights reserved.</p>
   <p>Built with 💻 by <strong><a href="https://github.com/GPVilia" target="_blank">Sniki</a></strong></p>
-  <p>Follow me on <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank">LinkedIn</a> and <a href="https://www.instagram.com/vilia.exe/" target="_blank">Instagram</a>.</p>
+  <p>Follow me on <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank">LinkedIn</a> and <a href="https://www.instagram.com/g.vilia_/" target="_blank">Instagram</a>.</p>
   
   <!-- Social Media Icons (small) -->
   <div style="margin-top: 20px; text-align: center;" style="text-decoration: none;">
