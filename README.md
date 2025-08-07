@@ -19,8 +19,8 @@
 <!-- Sobre -->
 <div>
   <pre>
-  🎓 BSc Systems Management and Computing • Fullstack Development • Systems Management
-  💻 System programming languages
+  🎓 BSc in Information Systems and Computing • Software Analyst • Developer
+  💻 Computer Science
   📖 Database Architecture • Software Engineering
   🎮 Gaming • Code • Anime • Music • Photography
   📍 Portugal, Lisbon</pre>
